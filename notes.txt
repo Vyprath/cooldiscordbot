@@ -1,0 +1,6 @@
+add_vip(user_discord_id, tipster_discord_id, period)
+    -- if user does not exist should add the user to the table and the service
+    -- if user exists should check if already subscribed if not should add the end date
+    -- if subscribed should return the last valid date of subscription
+    -- oversubscription or repeated subscription is not allowed
+
