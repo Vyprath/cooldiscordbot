@@ -325,4 +325,4 @@ async def delvip(ctx, user_member: discord.Member, tipster_member: discord.Membe
 
 countdown.start()
 
-client.run('NzE2MjExMzgzNzU0MDMxMTU1.XtId1A.6vPBJkrm2neBbib-5voHFrpcAzw')
+client.run('')
